@@ -1,1 +1,1 @@
-# Statistics-using-python
+# Statistics using python and R
